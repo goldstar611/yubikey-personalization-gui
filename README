@@ -61,8 +61,7 @@ For building on linux pkg-config is used to find these dependencies.
 
 On Debian-based systems (Ubuntu, Linux Mint, etc.):
 -----------
-  $ sudo apt install libusb-1.0-0-dev qt4-qmake libykpers-1-dev \
-      libyubikey-dev libqt4-dev
+  $ sudo apt install libusb-1.0-0-dev  libykpers-1-dev libyubikey-dev qt5-qmake qtbase5-dev
 -----------
 
 On Fedora-based systems (RHEL, CentOS, Scientific Linux, etc.):
